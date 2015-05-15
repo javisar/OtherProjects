@@ -30,3 +30,6 @@ Tools Compilation for MSX Computer
 
 ## WildcardUnzip
 Unzip only specific files from a zip. Useful for large zip files
+
+## PdfMargins
+Simple app to adjust pdf white margins
